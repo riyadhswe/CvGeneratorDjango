@@ -3,7 +3,6 @@ from .models import Profile
 import pdfkit
 from django.http import HttpResponse
 from django.template import loader
-import io
 
 
 # Create your views here.
